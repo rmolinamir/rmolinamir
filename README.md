@@ -1,7 +1,3 @@
-![rmolinamir](https://github-readme-stats.vercel.app/api?username=rmolinamir&&custom_title=Robert%20Molina&show_icons=true&theme=github_dark)
-
----
-
 ![hello](https://img.shields.io/badge/hello,-e63b6c?style=for-the-badge)
 
 I’m a Software Engineer with extensive hands-on software design & development expertise across a wide range of technologies while focusing on the value it delivers to the business.
@@ -18,3 +14,7 @@ I’m a Software Engineer with extensive hands-on software design & development 
 
 - [🔗 robertmolina.dev](https://www.robertmolina.dev/)
 - [🔗 linkedin.com/in/rmolinamir](https://www.linkedin.com/in/rmolinamir)
+
+---
+
+![rmolinamir](https://github-readme-stats.vercel.app/api?username=rmolinamir&&custom_title=Robert%20Molina&show_icons=true&theme=github_dark)
