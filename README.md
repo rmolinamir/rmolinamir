@@ -4,7 +4,7 @@ I’m a Software Engineer with extensive hands-on software design & development 
 
 ### TL;DR
 
-- 💼 Over 5 years of experience programming professionally with different companies in multiple languages and technologies
+- 💼 Over 6 years of experience programming professionally with different companies in multiple languages and technologies
 - 📈 Staying current with the latest trends in various technologies, languages, and best programming practices
 - 🌎 Open source collaborations and maintenance of various projects over the years
 - 🎓 Mechanical engineer graduate since 2017, carried out a study of a model for the prediction of the properties of a welding cord for AISI/SAE steels
