@@ -1,6 +1,6 @@
 ![hello](https://img.shields.io/badge/hello,-e63b6c?style=for-the-badge)
 
-I’m a Software Engineer with extensive hands-on software design & development expertise across a wide range of technologies while focusing on the value it delivers to the business.
+I’m a Software Engineer proficient in both backend and frontend development, leveraging Domain-Driven Design (DDD) principles to foster collaboration among technical and business stakeholders.
 
 ### TL;DR
 
