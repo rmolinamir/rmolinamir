@@ -17,5 +17,4 @@ I’m a Software Engineer proficient in both backend and frontend development, l
 
 ---
 
-![rmolinamir](https://github-readme-stats.vercel.app/api?username=rmolinamir&&custom_title=Robert%20Molina&show_icons=true&theme=github_dark)
 ![rmolinamir](https://github-readme-stats.vercel.app/api?username=rmolinamir&show_icons=true&theme=github_dark)
