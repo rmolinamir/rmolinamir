@@ -15,6 +15,8 @@ I’m a Software Engineer proficient in both backend and frontend development, l
 - [🔗 robertmolina.dev](https://www.robertmolina.dev/)
 - [🔗 linkedin.com/in/rmolinamir](https://www.linkedin.com/in/rmolinamir)
 
+<!--
+# DISABLED STATS
 ---
-
 ![rmolinamir](https://github-readme-stats.vercel.app/api?username=rmolinamir&show_icons=true&theme=github_dark)
+-->
