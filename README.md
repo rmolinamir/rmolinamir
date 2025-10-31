@@ -8,7 +8,7 @@ I’m a Software Engineer proficient in both backend and frontend development, l
 - 📈 Staying current with the latest trends in various technologies, languages, and best programming practices
 - 🌎 Open source collaborations and maintenance of various projects over the years
 - 🎓 Mechanical engineer graduate since 2017, carried out a study of a model for the prediction of the properties of a welding cord for AISI/SAE steels
-- 📄 [Preview and download my resume here](https://drive.google.com/file/d/15bEpE77LztNaNu2fn2wRtPsXeKzHSCu9/view)
+- 📄 [See more](https://drive.google.com/file/d/15bEpE77LztNaNu2fn2wRtPsXeKzHSCu9/view)
 
 ### More information
 
