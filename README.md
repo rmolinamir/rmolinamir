@@ -8,4 +8,4 @@ Personality-wise, I’m direct, calm under pressure, and focused on outcomes, fa
 
 - [🔗 robertmolina.dev](https://www.robertmolina.dev/)
 - [🔗 linkedin.com/in/rmolinamir](https://www.linkedin.com/in/rmolinamir)
-- [📄 Resume](https://drive.google.com/file/d/15bEpE77LztNaNu2fn2wRtPsXeKzHSCu9/view)
+- [📄 resume](https://drive.google.com/file/d/15bEpE77LztNaNu2fn2wRtPsXeKzHSCu9/view)
