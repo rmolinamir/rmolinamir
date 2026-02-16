@@ -6,6 +6,6 @@ Likewise, I like using Domain-Driven Design to keep boundaries sharp and align e
 
 Personality-wise, I’m direct, calm under pressure, and focused on outcomes, fast delivery without sacrificing quality.
 
+- [📄 resume.pdf](https://drive.google.com/file/d/15bEpE77LztNaNu2fn2wRtPsXeKzHSCu9/view)
 - [🔗 robertmolina.dev](https://www.robertmolina.dev/)
 - [🔗 linkedin.com/in/rmolinamir](https://www.linkedin.com/in/rmolinamir)
-- [📄 resume.pdf](https://drive.google.com/file/d/15bEpE77LztNaNu2fn2wRtPsXeKzHSCu9/view)
